@@ -1,0 +1,8 @@
+.test {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: tomato;
+  align-items: center;
+  color: rgb(0, 140, 255);
+}
